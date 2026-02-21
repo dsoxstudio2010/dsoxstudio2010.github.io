@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>test</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .container { background: #f0f0f0; padding: 30px; border-radius: 10px; text-align: center; }
+        h1 { color: #333; }
+        .visitor { background: white; padding: 10px; margin: 10px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>hii</h1>
+        <p>simple site on tor</p>
+        <p>server time: <span id="time"></span></p>
+        
+        <div class="visitor">
+            <h3>test!</h3>
+            <p>developer Dsox</p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('time').textContent = new Date().toLocaleString('ru-RU');
+    </script>
+</body>
+</html>
