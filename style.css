@@ -28,7 +28,7 @@ footer {
     margin-top: 50px;
     padding: 0 15px;
     display: flex;
-    flex-warp: warp;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
@@ -64,4 +64,9 @@ footer {
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+}
+
+img{
+  max-width: 100%; 
+  height: auto;
 }
