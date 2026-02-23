@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Главная страница -->
+  <url>
+    <loc>https://dsoxstudio2010.github.io/</loc>
+    <lastmod>2026-02-23</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- EUROTEX SPRINT 150 -->
+  <url>
+    <loc>https://dsoxstudio2010.github.io/moto1.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- ALPHA FX Руслана -->
+  <url>
+    <loc>https://dsoxstudio2010.github.io/rusik.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- ALPHA RS Виктора -->
+  <url>
+    <loc>https://dsoxstudio2010.github.io/vitaAK.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- ALPHA FX Самира -->
+  <url>
+    <loc>https://dsoxstudio2010.github.io/samirka.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
